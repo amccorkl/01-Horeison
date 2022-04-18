@@ -1,14 +1,14 @@
 # Horiseon Refactor
 
 ## Description
-To refactor both the HTML and CSS on the given UI landing page designed for desktop viewing. The HTML will now contain semantic HTML labeling, grouping of similar coding will be creating through class designation for CSS styling, and initial links will work that connect the navigation bar to the content sections.
+This project involves refactoring both the HTML and CSS on the given UI landing page which is designed for desktop viewing. The HTML now contains semantic HTML labeling and groupings of similar code  will be created through the use of classes which makes CSS styling easier. Initial links in the navigation bar will now connect to content sections.
 
 ## User Story
 
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+SO THAT our own site is optimized for search engines.
 ```
 
 ### Acceptance Criteria
